@@ -17,7 +17,7 @@ A simple React component for creating and editing posts with form validation and
 - SweetAlert2 (for alerts and notifications)
 - Tailwind CSS (for styling)
 
-## Installation
+## Installation and Execution
 
 1. Clone the repository or copy the component files.
 2. cd ./react-crud-app
@@ -25,5 +25,4 @@ A simple React component for creating and editing posts with form validation and
 4. json-server --watch db.json --port 3001
 5. npm run dev
 
-```bash
-npm install react react-hook-form sweetalert2 tailwindcss
+
