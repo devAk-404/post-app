@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "userId": "1",
+      "title": "Introduction to MERN",
+      "body": "Hello there,\nMy name is Adarsh Kumar,\nI am a MERN stack developer."
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "title": "Welcome",
+      "body": "Just saying hello!"
+    },
+    {
+      "id": "3",
+      "userId": "ef",
+      "title": "My Journey",
+      "body": "Started learning coding 3 years ago."
+    },
+    {
+      "id": "4",
+      "userId": "1",
+      "title": "React Tips",
+      "body": "Use hooks and functional components."
+    },
+    {
+      "id": "5",
+      "userId": "jhkerk",
+      "title": "Design Patterns",
+      "body": "Explore reusable solutions for common problems."
+    },
+    {
+      "id": "6",
+      "userId": "sdfsdfdsf",
+      "title": "Debugging",
+      "body": "Always use logs and breakpoints!"
+    },
+    {
+      "id": "7",
+      "userId": "fdsfdsfsdfsdfsdf",
+      "title": "First Project",
+      "body": "Built my first app using Node.js and Express."
+    },
+    {
+      "id": "8",
+      "userId": "34",
+      "title": "MongoDB",
+      "body": "Schema-less but powerful document storage."
+    },
+    {
+      "id": "9",
+      "userId": "7",
+      "title": "REST API",
+      "body": "Use GET, POST, PUT, DELETE methods."
+    },
+    {
+      "id": "10",
+      "userId": "67",
+      "title": "Authentication",
+      "body": "JWT and OAuth are most commonly used."
+    },
+    {
+      "id": "11",
+      "userId": "9",
+      "title": "Deploying Apps",
+      "body": "Host your full stack app on Vercel or Render."
+    },
+    {
+      "id": "12",
+      "userId": 2,
+      "title": "CI/CD",
+      "body": "Automate deployments with GitHub Actions."
+    },
+    {
+      "id": "13",
+      "userId": 9,
+      "title": "Hello World",
+      "body": "My first program always prints this!"
+    }
+  ]
+}
